@@ -5,5 +5,11 @@ main {
 form {
     margin: 30% 10%;
     margin-bottom: 5%;
-    background-color: #691e1e;
+    background-color: #e2a4a4;
+}
+
+button {
+    padding: 1em;
+    border-style: solid;
+    border-radius: 1em;
 }

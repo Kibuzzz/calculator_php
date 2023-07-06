@@ -1,15 +1,27 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
 main {
     text-align: center;
+    background-color: #895f5f;
 }
-
 form {
-    margin: 30% 10%;
-    margin-bottom: 5%;
-    background-color: #e2a4a4;
+    margin: 30% 10% 10% 10%;
+    background-color: rgb(45, 81, 112);
 }
 
+.select-button {
+    margin-left: 10%;
+    margin-right: 10%;
+}
 button {
+    margin-top: 1em;
     padding: 1em;
     border-style: solid;
     border-radius: 1em;
+}
+
+.input-div {
 }
